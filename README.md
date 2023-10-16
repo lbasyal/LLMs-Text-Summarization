@@ -1,4 +1,4 @@
-# Text Summarization with Large Language Models
+# Text Summarization Using Large Language Models
 
 ## Overview
 
