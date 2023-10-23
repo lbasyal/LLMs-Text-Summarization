@@ -11,3 +11,5 @@ In this project, I have recently updated the experiment files for the CNN Dailym
 - **MPT-7b-instruct**
 - **Falcon-7b-instruct**
 - **Text-davinci-003**
+
+You can go through the technical paper:https://arxiv.org/abs/2310.10449
